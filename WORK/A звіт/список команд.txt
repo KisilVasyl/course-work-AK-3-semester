@@ -1,0 +1,25 @@
+ADD 0 -
+NAND 1 -
+LW 2 -
+SW 3 -
+BEQ 4 -
+JALR 5 -
+HALT 6
+NOOP 7
+DIV 8 -
+SUB 9 -
+XSUB 10 -
+SHL 11 - 
+ROL 12 -
+NOT 13 -
+JMA 14 -
+JMNBE 15 -
+CMP 16 -
+BSR 17 -
+BSF 18 -
+SETBR 19 -
+LOAD 20 -
+SAVE 21 -
+NBEQ 22 -
+NJMA 23 -
+NJMNBE 24 -

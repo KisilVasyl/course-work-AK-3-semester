@@ -1,0 +1,121 @@
+memory[0]=8454148
+memory[1]=8519685
+memory[2]=76021762
+memory[3]=25165824
+memory[4]=8
+memory[5]=2
+memory[6]=2
+
+
+@@@
+state:
+	pc 0
+	memory:
+		mem[ 0 ] 8454148
+		mem[ 1 ] 8519685
+		mem[ 2 ] 76021762
+		mem[ 3 ] 25165824
+		mem[ 4 ] 8
+		mem[ 5 ] 2
+		mem[ 6 ] 2
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] 0
+		reg[ 2 ] 0
+		reg[ 3 ] 0
+		reg[ 4 ] 0
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ ZF ] 0
+end state
+
+@@@
+state:
+	pc 1
+	memory:
+		mem[ 0 ] 8454148
+		mem[ 1 ] 8519685
+		mem[ 2 ] 76021762
+		mem[ 3 ] 25165824
+		mem[ 4 ] 8
+		mem[ 5 ] 2
+		mem[ 6 ] 2
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] 8
+		reg[ 2 ] 0
+		reg[ 3 ] 0
+		reg[ 4 ] 0
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ ZF ] 0
+end state
+
+@@@
+state:
+	pc 2
+	memory:
+		mem[ 0 ] 8454148
+		mem[ 1 ] 8519685
+		mem[ 2 ] 76021762
+		mem[ 3 ] 25165824
+		mem[ 4 ] 8
+		mem[ 5 ] 2
+		mem[ 6 ] 2
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] 8
+		reg[ 2 ] 2
+		reg[ 3 ] 0
+		reg[ 4 ] 0
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ ZF ] 0
+end state
+
+@@@
+state:
+	pc 3
+	memory:
+		mem[ 0 ] 8454148
+		mem[ 1 ] 8519685
+		mem[ 2 ] 76021762
+		mem[ 3 ] 25165824
+		mem[ 4 ] 8
+		mem[ 5 ] 2
+		mem[ 6 ] 2
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] 8
+		reg[ 2 ] 3
+		reg[ 3 ] 0
+		reg[ 4 ] 0
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ ZF ] 1
+end state
+machine halted
+total of 4 instructions executed
+final state of machine:
+
+@@@
+state:
+	pc 4
+	memory:
+		mem[ 0 ] 8454148
+		mem[ 1 ] 8519685
+		mem[ 2 ] 76021762
+		mem[ 3 ] 25165824
+		mem[ 4 ] 8
+		mem[ 5 ] 2
+		mem[ 6 ] 2
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] 8
+		reg[ 2 ] 3
+		reg[ 3 ] 0
+		reg[ 4 ] 0
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ ZF ] 1
+end state
